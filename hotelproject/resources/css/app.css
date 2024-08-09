@@ -1,0 +1,20 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* ヘッダー要素内 */
+
+.custom-navbar {
+    background-color: skyblue; /* グレーの背景色 */
+    padding-top: 50px; /* 上にスペースを設ける */
+}
+
+.custom-navbar .navbar-nav .nav-item {
+    margin-right: 30px; /* li要素の右側のマージンを設定 */
+}
+
+.custom-navbar .navbar-nav .nav-item:last-child {
+    margin-right: 0; /* 最後のアイテムの右側のマージンをなくす */
+}

@@ -1,0 +1,147 @@
+<mxfile host="app.diagrams.net" modified="2024-07-20T22:23:56.261Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5EYOKtZ-08b7-fnMsZ0v" version="24.7.2" type="device">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="914" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dzikB0RPCeivPOqd4FYt-2" value="TOP" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-3" value="アクセス案内ページ" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-5" value="客室紹介ページ" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-7" value="宿泊プラン一覧" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-8" value="空室カレンダー" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="200" height="90" as="geometry">
+            <mxRectangle x="330" y="320" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-9" value="宿泊予約ページ" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="204.5" as="sourcePoint" />
+            <mxPoint x="320" y="204.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="204.5" as="sourcePoint" />
+            <mxPoint x="600" y="204.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="204.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="162" as="sourcePoint" />
+            <mxPoint x="419" y="132" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="280" as="sourcePoint" />
+            <mxPoint x="420" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="421" y="401" as="sourcePoint" />
+            <mxPoint x="421" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="80" as="sourcePoint" />
+            <mxPoint x="160" y="156" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.435;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="83" as="sourcePoint" />
+            <mxPoint x="677" y="159.99999999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="677" y="82.97" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-20" value="&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 16px;&quot;&gt;宿泊者側機能&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-21" value="&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 16px;&quot;&gt;管理者側機能&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-22" value="TOP" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-23" value="ログイン画面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dzikB0RPCeivPOqd4FYt-22">
+          <mxGeometry x="55" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.5" y="682" as="sourcePoint" />
+            <mxPoint x="419.5" y="652" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-27" value="ダッシュボード" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-29" value="問い合わせ一覧" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-31" value="予約管理機能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dzikB0RPCeivPOqd4FYt-29">
+          <mxGeometry x="50" y="38" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-32" value="宿泊設定" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="600" y="680" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-39" value="宿泊プラン管理機能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dzikB0RPCeivPOqd4FYt-32">
+          <mxGeometry x="35" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-36" value="予約枠管理機能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dzikB0RPCeivPOqd4FYt-32">
+          <mxGeometry x="45" y="28" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="724.5" as="sourcePoint" />
+            <mxPoint x="320" y="724.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="724.5" as="sourcePoint" />
+            <mxPoint x="600" y="724.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-43" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.435;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="600" as="sourcePoint" />
+            <mxPoint x="677" y="677" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="677" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzikB0RPCeivPOqd4FYt-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="604" as="sourcePoint" />
+            <mxPoint x="160" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="604" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
